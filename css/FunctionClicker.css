@@ -1,0 +1,17 @@
+#header
+{
+	font-size: 20px;
+	font-weight: bold;
+	color: #123456;
+	text-align: center;
+	margin-top: 50px;
+}
+
+#stats
+{
+	text-align: center;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	margin-top: 25px;
+}
